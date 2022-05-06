@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaavyalakshmanan
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Vue3
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on fun full-stack projects!
 - 📫 How to reach me: Feel free to email me at kaavya.laks@gmail.com
 
